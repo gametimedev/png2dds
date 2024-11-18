@@ -2,11 +2,9 @@
   "name": "png2dds",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
+  "repository": { "type": "git", "url": "https://github.com/gametimedev/png2dds" },
+  "keywords": ["png","dds"],
+  "author": "GameTimeDev",
   "license": "MIT",
-  "description": ""
+  "description": "Convert PNG files or buffers into DDS file buffers"
 }
